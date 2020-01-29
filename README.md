@@ -1,4 +1,6 @@
 english-words
+
+Forked from [dwyl/english-words](https://github.com/dwyl/english-words)
 =============
 
 A text file containing over 466k English words.
